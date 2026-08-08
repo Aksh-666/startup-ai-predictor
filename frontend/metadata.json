@@ -1,0 +1,6 @@
+{
+  "name": "Startup AI",
+  "description": "Futuristic Cyber-Neon Command Center for startup analytics, predictive risk scoring, and strategic viability reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

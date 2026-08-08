@@ -1,0 +1,924 @@
+startup_name,industry,business_model,current_stage,country,funding_target,team_size,founder_experience,problem_statement,target_customers,key_competitors,gtm_strategy
+Tsumobi,Software,SaaS,Prototype,US,461866864,144,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+64x Bio,Enterprise,B2B,Growth,US,214354053,70,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Prophecy Sciences,Software,SaaS,Series A,US,41035899,31,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Intuned,Software,SaaS,Growth,US,309265940,164,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ParcelBio,Games_Video,B2C,Prototype,US,218232439,149,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+HelpWear,Software,SaaS,Series B,CA,772547315,197,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Archbee,Software,SaaS,MVP,RO,735095816,184,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Swerve,Finance,B2B,Series B,US,667724828,166,Intermediate,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Fume,Software,SaaS,Seed,US,21507103,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Greywing,Software,SaaS,Series A,SG,97455101,49,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Drapr,Software,SaaS,Seed,US,12854428,13,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+buildspace,Software,SaaS,Idea,US,3659991,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mystic,Software,SaaS,Series B,GB,409348041,90,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Andson Biotech,Education,Subscription,Series A,US,65419923,45,Intermediate,Students need engaging digital learning.,Students,"BYJU'S, Unacademy, PhysicsWallah",Campus Ambassador Program
+Ten Lives,Software,SaaS,Seed,Unknown,24113990,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Preflight,Software,SaaS,Seed,US,29650284,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Humi,Software,SaaS,Prototype,CA,605004023,153,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Polymath Robotics,Games_Video,B2C,Series A,US,72223060,42,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Latent Space,Software,SaaS,Idea,ID,4532952,2,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Finary.com,Enterprise,B2B,Series B,FR,250947486,140,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Cellbyte,Software,SaaS,MVP,DE,830087122,182,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SID,Software,SaaS,Seed,Unknown,29723216,12,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Snaptalent,Software,SaaS,Series B,US,343696849,133,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Svix,Software,SaaS,Series A,US,150498274,27,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Draftwise,Software,SaaS,Growth,US,866910278,136,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Demospace,Software,SaaS,Seed,Unknown,11238624,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ubicloud,Software,SaaS,Series B,Unknown,808105265,65,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dashdive,Software,SaaS,Seed,US,14797982,12,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Payhippo,Software,SaaS,Growth,NG,323403583,116,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CB Therapeutics,Software,SaaS,Idea,US,1542849,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Therify,Software,SaaS,Prototype,Unknown,519165869,105,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Chestnut,Software,SaaS,Seed,US,10252563,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SolarMente,Software,SaaS,Prototype,ES,592515021,131,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lariat Data,Software,SaaS,Prototype,US,995572367,64,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sway Finance,Software,SaaS,Prototype,US,983710016,162,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Citus Data,Software,SaaS,Prototype,US,942456273,163,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scentbird,Software,SaaS,MVP,US,863987732,132,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Thinkature,Software,SaaS,MVP,Unknown,897072602,200,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SmartHelio,Ecommerce,Marketplace,MVP,CH,954899339,110,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Fazeshift,Advertising,Freemium,Series B,US,414582113,195,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+OrderAhead,Enterprise,B2B,Series B,US,929635807,67,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Tilt,Software,SaaS,MVP,IN,356176676,118,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+cocreate,Software,SaaS,Prototype,US,735479061,164,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Darsel,Enterprise,B2B,Growth,Unknown,847867516,133,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Hyperbound,Advertising,Freemium,Series A,US,43672282,33,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Lightwell,Software,SaaS,Growth,US,258250818,70,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Infisical,Software,SaaS,Series A,US,191730945,34,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+WareIQ,Software,SaaS,Prototype,IN,354570279,158,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SmartHelio,Software,SaaS,MVP,CH,720901000,118,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pillar,Software,SaaS,Prototype,US,869714526,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mito,Software,SaaS,Series A,US,157535092,40,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+500Friends,Software,SaaS,Growth,US,207005882,164,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+LlamaFarm,Software,SaaS,MVP,US,489106928,125,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Reflex,Software,SaaS,Growth,US,771534006,177,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Opez,Enterprise,B2B,Growth,US,625706493,78,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Powerhouse AI,Software,SaaS,Series B,SG,372230664,195,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scape,Software,SaaS,Idea,US,1944388,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Datarank,Software,SaaS,Idea,US,2190721,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lizza,Software,SaaS,Growth,MX,201021334,111,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PayMongo,Software,SaaS,Growth,PH,285627023,80,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bicycle AI,Biotech,B2B,Idea,IN,4680798,2,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Cherry Recommends,Software,SaaS,Idea,SG,1223960,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+FutureAdvisor,Enterprise,B2B,Growth,US,412419740,70,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Sandbox Banking,Software,SaaS,Idea,US,1807158,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CapWay,Software,SaaS,Seed,US,19395382,8,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Couple,Software,SaaS,Series A,US,32072224,21,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+YourQuote,Software,SaaS,MVP,IN,529451538,132,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tab,Advertising,Freemium,Growth,GB,867458321,68,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Hepatx,Software,SaaS,Idea,US,3742547,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+DAGWorks Inc.,Advertising,Freemium,Seed,US,15287381,14,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Transcriptic,Software,SaaS,Prototype,US,561380755,182,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Naytev,Software,SaaS,Seed,US,15740276,8,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tailornova/Couturme,Software,SaaS,Growth,US,565406152,73,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+The Human Utility,Advertising,Freemium,Idea,US,1150038,3,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Lingo.dev,Software,SaaS,MVP,US,826895393,178,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PullRequest,Software,SaaS,Series B,US,361566078,132,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Jemi,Software,SaaS,Growth,US,446323443,98,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Handl,Software,SaaS,Seed,US,15219708,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GovEagle,Games_Video,B2C,Seed,US,25222369,12,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Terra,Software,SaaS,Series A,US,93376463,38,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Stownest,Software,SaaS,Growth,IN,864611548,96,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dataland,Software,SaaS,MVP,US,294917206,160,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+JustSpotted,Software,SaaS,MVP,DK,764064306,198,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Runa,Software,SaaS,Series A,MX,174403968,57,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mattermark,Software,SaaS,Series B,US,245974457,98,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rulebase,Software,SaaS,Series B,Unknown,785634827,161,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Marathon Education,Software,SaaS,Series A,VN,196032300,29,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Chaos Genius,Software,SaaS,Idea,US,2250559,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AppX,Ecommerce,Marketplace,Growth,IN,441676911,144,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Roe AI,Software,SaaS,Series A,US,70688709,33,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cofactor Genomics,Software,SaaS,Growth,US,656058039,181,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dataform,Advertising,Freemium,Growth,GB,505976886,178,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Benepass,Software,SaaS,Prototype,US,238221909,157,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Float,Software,SaaS,Idea,US,4479474,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+DoorDash,Finance,B2B,Growth,US,634686880,161,Experienced,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Dream3D,Software,SaaS,Idea,US,4881770,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+"80,000 Hours",Software,SaaS,Growth,GB,600040053,67,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SpruceID,Software,SaaS,Prototype,US,270405960,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lowkey,Software,SaaS,Prototype,US,250118695,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Versori,Software,SaaS,Prototype,GB,629134597,83,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+trebu,Software,SaaS,Prototype,MX,252075185,186,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Airhart Aeronautics,Software,SaaS,Series A,US,176617273,46,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Asher Bio,Software,SaaS,Prototype,US,871289639,147,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Serra,Software,SaaS,MVP,US,406083886,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fobo,Software,SaaS,MVP,US,640561994,63,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Prime Lightworks,Software,SaaS,Growth,US,821255924,114,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Zaam,Software,SaaS,Seed,US,29535771,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vendah,Software,SaaS,Series A,BR,32365674,34,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Flower,Software,SaaS,Series B,Unknown,980268830,153,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Federacy,Software,SaaS,Seed,US,24494478,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+UNISON,Software,SaaS,Seed,US,12683667,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sublingual,Software,SaaS,Prototype,US,235128936,194,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Billforward,Software,SaaS,Series A,US,80196218,39,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Keyri,Software,SaaS,Seed,US,14626825,10,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Duranium,Enterprise,B2B,Series A,US,170722509,23,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Recurse Center,Software,SaaS,Prototype,US,453037027,74,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bear,Biotech,B2B,Series A,US,79556611,45,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Version Story,Software,SaaS,Series B,US,589108480,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Talentropy.ai,Ecommerce,Marketplace,Growth,CO,865228239,144,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Feather,Software,SaaS,Idea,US,2250311,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Choppy!,Software,SaaS,Growth,US,440956810,126,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Santé,Ecommerce,Marketplace,Growth,US,749692591,122,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Oncobox,Enterprise,B2B,Seed,US,14152797,15,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+CoinTent,Software,SaaS,Seed,US,25704741,12,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Noble,Software,SaaS,Series A,IL,113395152,51,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Codingal,Biotech,B2B,MVP,IN,575011480,90,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+MangoDesk,Software,SaaS,Series B,Unknown,350409298,64,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pave,Advertising,Freemium,Idea,CA,3941198,5,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+PromptArmor,Software,SaaS,Series B,Unknown,303140996,115,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Miracle,Software,SaaS,MVP,US,250602569,61,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cairns Health,Software,SaaS,Growth,US,835876491,182,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Unlayer,Games_Video,B2C,Series B,US,647104495,82,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Hypnos,Software,SaaS,Series A,US,120639671,44,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dropbox,Software,SaaS,Prototype,US,885988868,136,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Odapt,Software,SaaS,Idea,Unknown,2574437,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hush,Software,SaaS,Growth,US,593097456,107,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Headstart,Software,SaaS,Seed,GB,8700496,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cashfree Payments,Biotech,B2B,Prototype,IN,325563730,171,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Hyper,Advertising,Freemium,Seed,US,5937354,15,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Massdriver,Software,SaaS,Growth,US,933674060,109,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Joon Health,Software,SaaS,Prototype,US,493704542,168,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Piggy,Software,SaaS,MVP,IN,331974417,98,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+OneKey,Games_Video,B2C,MVP,FR,644939285,121,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+tEQuitable,Software,SaaS,Growth,US,639967579,86,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SparkGift,Software,SaaS,Seed,US,20379006,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Whaly,Software,SaaS,Growth,FR,646178021,72,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Chaser,Games_Video,B2C,Idea,US,4439738,2,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Eventual,Software,SaaS,Series B,US,241315551,92,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vanta,Software,SaaS,Prototype,US,964687981,116,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dill,Software,SaaS,Series B,Unknown,660490885,112,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+dScribe AI,Software,SaaS,Prototype,US,605912144,62,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Draftwise,Software,SaaS,Series B,US,462398148,111,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Convictional,Software,SaaS,Growth,CA,457655231,192,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+OneGraph,Software,SaaS,Series B,US,616213358,196,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Medinas Health,Software,SaaS,Seed,US,19105258,9,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pyrls,Software,SaaS,Idea,US,3097645,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mailwarm,Software,SaaS,Growth,FR,370914260,110,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spoil,Software,SaaS,Series A,US,76880121,56,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Recall.ai,Software,SaaS,Prototype,US,727251355,140,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bild AI,Software,SaaS,MVP,Unknown,664870971,180,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Revi,Software,SaaS,Prototype,Unknown,289843348,131,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Laylo,Finance,B2B,Prototype,US,505736630,111,Intermediate,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Blitz,Biotech,B2B,Series A,US,138977115,22,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+lvl5,Enterprise,B2B,MVP,Unknown,875920610,87,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Shiboleth,Software,SaaS,Growth,Unknown,731029736,137,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Carrot Fertility,Software,SaaS,Prototype,US,941443382,84,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scout,Advertising,Freemium,MVP,US,904592416,188,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+BuildScience,Software,SaaS,Series A,US,54701790,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hellobill,Software,SaaS,Growth,Unknown,529276039,175,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+V-Flow Medical,Games_Video,B2C,Seed,US,23178823,14,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Hemut,Software,SaaS,Idea,US,1888525,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+C16 Biosciences,Software,SaaS,Series B,US,616523553,104,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Slapdash,Software,SaaS,Idea,US,3475515,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Slidely AI,Software,SaaS,Prototype,Unknown,917427114,111,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Powerdocs,Software,SaaS,Series A,DE,73525949,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Creative Market,Enterprise,B2B,Growth,US,392991639,127,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Swayable,Enterprise,B2B,Series B,US,699045570,93,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Lob,Software,SaaS,Growth,US,756705563,166,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Promoted.ai,Ecommerce,Marketplace,Seed,US,6302559,15,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+BackType,Software,SaaS,Idea,US,1230477,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Experiment,Advertising,Freemium,Prototype,US,980660279,104,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Embrace,Software,SaaS,Seed,US,14422809,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Toothy AI,Software,SaaS,Prototype,US,325542789,136,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lollipuff,Software,SaaS,Series A,US,122106315,50,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Firezone,Software,SaaS,Growth,US,442295882,124,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Closer Sports,Software,SaaS,Prototype,Unknown,714617805,148,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Camlist,Enterprise,B2B,Prototype,GB,329853799,136,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+RADAR,Software,SaaS,Seed,US,19102049,9,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fam,Enterprise,B2B,Series B,US,244214568,141,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Teespring,Software,SaaS,Growth,US,239952035,82,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bluedot,Software,SaaS,Prototype,US,244177246,168,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+StrongIntro,Games_Video,B2C,Idea,US,4836371,5,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Anfin,Software,SaaS,Series B,VN,771446254,116,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Weltio,Software,SaaS,Series B,MX,417056635,76,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Phases,Software,SaaS,Growth,US,940304923,181,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Zenedy,Games_Video,B2C,Series B,US,559083103,109,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Necto,Advertising,Freemium,Seed,US,10818738,8,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Path,Software,SaaS,Seed,US,15760178,8,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Homeflow,Software,SaaS,Growth,US,402611631,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kashikoi,Software,SaaS,Series A,US,54670151,26,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Purple Plate,Software,SaaS,Series B,US,397328866,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rio,Software,SaaS,Series A,MX,133007341,35,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kapacity.io,Enterprise,B2B,MVP,FI,627365525,137,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Almond,Enterprise,B2B,Prototype,Unknown,838782670,159,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Better Auth,Advertising,Freemium,Series A,US,111991377,53,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Honeydue,Software,SaaS,Idea,US,3551478,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Levers,Software,SaaS,Idea,SA,1954769,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GoGoGrandparent,Software,SaaS,Series B,US,977838401,102,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Roame,Advertising,Freemium,MVP,US,522808940,181,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Luminal,Software,SaaS,Seed,Unknown,12538182,14,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vendr.com,Software,SaaS,Growth,US,936340985,189,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CloudCruise,Advertising,Freemium,Series A,US,182484659,60,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Peg (formerly Paymobil),Software,SaaS,Growth,US,752888424,81,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Plutis,Software,SaaS,Series A,US,172015693,37,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lovage,Biotech,B2B,Growth,US,654482058,158,Experienced,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+VergeSense,Software,SaaS,Series B,US,409960097,99,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Govly,Software,SaaS,Series B,US,637456630,126,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Great Question,Software,SaaS,Series A,US,53461553,23,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Meadow,Software,SaaS,Prototype,US,462957768,183,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+VoiceOS,Advertising,Freemium,Seed,US,21966780,11,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Devyce,Advertising,Freemium,Series A,GB,135578979,22,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+StayQrious,Software,SaaS,Idea,IN,2424085,5,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Proper,Ecommerce,Marketplace,Seed,US,16933096,15,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Insoshi,Software,SaaS,Series A,Unknown,58407144,46,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Buxfer,Enterprise,B2B,Series B,US,668498797,88,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Nuntius,Software,SaaS,Series B,US,267439127,187,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Flott HQ,Biotech,B2B,Growth,Unknown,558779913,81,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Preki,Ecommerce,Marketplace,Series B,CO,803158240,136,Experienced,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+VanGo,Advertising,Freemium,Idea,US,4794492,5,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Human Dx,Software,SaaS,Prototype,US,321664666,155,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Patchwork,Software,SaaS,Prototype,US,724301295,122,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Keeling Labs,Enterprise,B2B,Growth,US,968953676,80,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+C16 Biosciences,Software,SaaS,MVP,US,213524660,101,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GIMO,Software,SaaS,Series A,VN,112068544,40,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AlgoUniversity,Software,SaaS,Series A,IN,169164408,21,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Finary,Advertising,Freemium,Prototype,US,389729703,147,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+AudioFocus,Advertising,Freemium,MVP,US,916361311,139,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Relevium Medical,Software,SaaS,Prototype,IE,474358013,119,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Wibond,Software,SaaS,MVP,AR,293977263,88,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Union Apartment,Advertising,Freemium,Series A,US,101922662,30,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+CUTR,Enterprise,B2B,Prototype,NL,488333885,90,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Morada Uno,Software,SaaS,Series B,MX,667900738,163,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SolarMente,Software,SaaS,Idea,ES,1027530,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ubicloud,Advertising,Freemium,Series A,Unknown,166777900,29,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Cactus,Software,SaaS,Idea,Unknown,2638974,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Canopy (was Encarte),Software,SaaS,Growth,US,718202825,133,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kosh,Software,SaaS,Seed,IN,25412362,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Copper Health,Enterprise,B2B,Prototype,US,339970608,117,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Delineate,Enterprise,B2B,MVP,US,887301661,153,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Memora Health,Software,SaaS,Seed,US,19421381,15,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lyra,Software,SaaS,Prototype,US,258787010,121,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Remi,Software,SaaS,Growth,US,416435148,197,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Chima,Software,SaaS,Series A,US,167837699,54,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Posterous,Games_Video,B2C,Seed,US,28156651,10,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Players' Lounge,Software,SaaS,Seed,US,27469954,11,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Phase Biolabs,Biotech,B2B,Idea,GB,3853466,2,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Phykos,Biotech,B2B,Seed,US,23154843,7,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Firecrawl,Enterprise,B2B,Prototype,US,320103759,69,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+OneSchema,Finance,B2B,Idea,US,4415424,4,Intermediate,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Floot,Games_Video,B2C,Series A,US,169844975,42,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Our World in Data,Software,SaaS,Seed,GB,21839019,13,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Blueberry Pediatrics,Software,SaaS,Prototype,US,661807762,137,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lightmeter,Software,SaaS,Seed,GB,19997565,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Skyways,Software,SaaS,Seed,US,16413706,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AlphaWatch AI,Software,SaaS,Prototype,US,687889808,115,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+DreamWorld,Software,SaaS,MVP,US,808931741,185,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Infina,Enterprise,B2B,Idea,VN,3163516,5,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Evidence,Software,SaaS,Growth,CA,273147687,110,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Webhound,Advertising,Freemium,Seed,US,23310630,9,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Orange Health Labs,Software,SaaS,Seed,IN,22076278,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pinch,Software,SaaS,Seed,Unknown,22932943,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Anglera,Software,SaaS,Idea,US,1051701,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spokn,Software,SaaS,Seed,US,13202276,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lingt,Software,SaaS,Prototype,US,343557617,79,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Promakhos Therapeutics,Enterprise,B2B,Prototype,US,664832648,95,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Tejas AI,Software,SaaS,Series A,US,153111909,31,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Suggestr,Software,SaaS,Idea,SG,4236689,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+NetworkOcean,Biotech,B2B,Series A,US,128956538,27,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Robby Technologies,Software,SaaS,Growth,US,821713910,102,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Collections,Software,SaaS,Series B,US,905474352,137,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kidato,Software,SaaS,Prototype,KE,933037998,181,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Demo Gorilla,Software,SaaS,MVP,US,425562880,198,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hent,Advertising,Freemium,Series A,BR,82750925,43,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Blueberry Pediatrics,Games_Video,B2C,MVP,US,675056616,184,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Prompt,Software,SaaS,Idea,Unknown,4904274,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+The Flex Company,Software,SaaS,Growth,US,838565705,105,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kiko,Software,SaaS,Growth,US,996711804,157,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Apozy,Software,SaaS,Seed,US,5196393,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Unbabel,Software,SaaS,Prototype,US,371342638,97,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Waffle,Software,SaaS,Idea,US,2559992,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Doppler,Software,SaaS,MVP,Unknown,910846143,117,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Path,Biotech,B2B,Series B,US,890734364,87,Experienced,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+ContextFort,Games_Video,B2C,Series A,US,31512343,38,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Quadrant Eye,Software,SaaS,Series B,US,918175322,88,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+WeReno,Software,SaaS,Prototype,CA,294201376,100,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hipmob,Software,SaaS,Series A,US,106965151,57,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Remo,Software,SaaS,Idea,Unknown,3340262,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Finmark,Enterprise,B2B,MVP,US,723109182,168,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Charm,Software,SaaS,Prototype,US,407830894,72,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Screenleap,Software,SaaS,Seed,US,25147625,9,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Entangl,Software,SaaS,Growth,US,387423935,169,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sleep Reset,Software,SaaS,MVP,US,207302062,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Micro Meat,Games_Video,B2C,MVP,MX,407499081,100,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Front,Ecommerce,Marketplace,Growth,US,602971345,144,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+ControlHub,Software,SaaS,Series B,Unknown,323714602,139,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Genuity,Software,SaaS,MVP,US,560567764,135,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fullstack Academy,Software,SaaS,Series B,US,503625012,86,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fig,Software,SaaS,Prototype,US,987925165,103,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GovEagle,Software,SaaS,Seed,US,27318762,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Verto,Software,SaaS,Seed,GB,7273205,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scratch Data,Software,SaaS,Series A,US,100878739,46,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SalaryBook,Games_Video,B2C,Growth,IN,859131166,188,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Culture Biosciences,Software,SaaS,Growth,US,735403610,168,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Juni,Advertising,Freemium,Series B,US,331209311,128,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Picwing,Software,SaaS,Idea,US,2694691,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+OpenFoundry,Software,SaaS,Idea,US,4378692,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Caelum Health,Software,SaaS,Idea,US,3412130,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Varos,Software,SaaS,MVP,US,748250107,115,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Positional,Software,SaaS,Idea,US,1141868,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dex,Games_Video,B2C,Growth,US,387267321,118,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+coil inc.,Software,SaaS,Series A,US,161834459,49,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Gem,Finance,B2B,Growth,US,205884109,119,Intermediate,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Elementary,Software,SaaS,MVP,IL,790827024,174,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SpruceID,Software,SaaS,Series A,US,47115891,20,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Odapt,Finance,B2B,Series A,Unknown,154075409,53,Intermediate,Financial services remain inaccessible and expensive.,SMEs,"Razorpay, CRED, Groww, PhonePe",Enterprise Sales
+Airbyte,Games_Video,B2C,Series A,US,162145271,40,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Emerge Career,Software,SaaS,Series B,Unknown,387300180,163,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Saida,Software,SaaS,Growth,KE,418086819,191,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GovPredict,Software,SaaS,Idea,US,4232388,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Open Motors,Software,SaaS,Seed,US,16849185,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Popl,Enterprise,B2B,Seed,US,13662189,5,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Auricle,Software,SaaS,Series A,US,75529406,33,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Backpack,Software,SaaS,MVP,US,881268758,102,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+phospho,Software,SaaS,Prototype,US,842410770,127,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lightdash,Software,SaaS,Idea,GB,4888346,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Narrative,Software,SaaS,Prototype,US,367593134,76,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spotlight Realty,Software,SaaS,Growth,US,950166769,150,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+erad,Software,SaaS,MVP,SA,799685683,99,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Symple,Enterprise,B2B,Idea,US,4595606,5,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Chirply,Advertising,Freemium,Growth,US,244536545,65,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Paces,Games_Video,B2C,Seed,US,15467802,15,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Tracecat,Enterprise,B2B,MVP,US,902946365,71,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Winford Wealth,Enterprise,B2B,Idea,Unknown,3042544,3,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Cohesive,Biotech,B2B,Series A,US,127007967,44,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Trigger.dev,Software,SaaS,Series A,GB,51323708,56,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Event Horizon Labs,Software,SaaS,Idea,US,4858350,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tensil,Games_Video,B2C,Series A,US,160475860,32,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Alter,Software,SaaS,Series B,US,549463266,105,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CreatorML,Software,SaaS,Growth,US,923602811,112,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dashdive,Software,SaaS,Series B,US,528753411,62,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Synder,Software,SaaS,Series B,US,611860783,68,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dyte,Software,SaaS,Series B,IN,768061459,112,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Axle Health,Biotech,B2B,Seed,US,16723660,8,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Capacitive,Enterprise,B2B,Idea,US,2203730,3,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Caviar,Advertising,Freemium,Series B,US,595868510,159,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Opzi,Software,SaaS,Growth,US,398898856,112,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+David AI,Software,SaaS,Idea,Unknown,1667090,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ZeroDown,Enterprise,B2B,Series B,US,402685997,166,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Pideaky,Software,SaaS,Growth,MX,442855628,177,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+FirstQuadrant,Software,SaaS,Series B,US,739927689,94,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+TetraScience,Software,SaaS,Prototype,US,715401198,76,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Paribus,Enterprise,B2B,Seed,US,15507866,8,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+lapzo,Software,SaaS,Growth,MX,240715604,61,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Science Exchange,Software,SaaS,Idea,US,1062119,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cribspot,Software,SaaS,Growth,US,662791215,131,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Artos,Software,SaaS,Idea,Unknown,3485665,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Epsilon3,Software,SaaS,Series A,US,76569143,48,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Taiv,Advertising,Freemium,Growth,CA,895929261,138,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+FlexDesk,Software,SaaS,Seed,US,14141295,8,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Recover,Software,SaaS,Series B,Unknown,348842982,128,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cinder,Enterprise,B2B,Prototype,US,665504641,155,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Quary,Software,SaaS,Idea,GB,3904895,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Conductor Quantum,Software,SaaS,Growth,US,639863418,168,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Restocks,Software,SaaS,Growth,US,751929487,73,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Infracost,Software,SaaS,Idea,Unknown,3024456,3,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Turing Labs Inc.,Ecommerce,Marketplace,Prototype,US,359055331,83,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Zinc,Education,Subscription,Series B,US,227226810,61,Intermediate,Students need engaging digital learning.,Students,"BYJU'S, Unacademy, PhysicsWallah",Campus Ambassador Program
+Hatchet,Software,SaaS,Seed,US,14975993,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Parker,Software,SaaS,Series A,US,89402915,41,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Thinkature,Software,SaaS,Seed,Unknown,14236424,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+NURX,Advertising,Freemium,Prototype,US,531702679,85,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+PicnicHealth,Software,SaaS,Series B,US,747256713,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kunduz,Software,SaaS,Growth,TR,471718161,134,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Posh,Software,SaaS,MVP,US,492414366,124,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Abel Police,Software,SaaS,Growth,Unknown,458791802,153,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GoCardless,Advertising,Freemium,Idea,GB,3557382,3,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+BlindPay,Software,SaaS,Growth,Unknown,676347089,141,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SalaryBook,Software,SaaS,MVP,IN,831473845,162,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Goodybag,Software,SaaS,Growth,US,651452363,169,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SalaryBook,Software,SaaS,Growth,IN,468086849,198,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Potion,Software,SaaS,MVP,US,354883527,166,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Omnara,Software,SaaS,Series A,US,70777184,33,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Datasaur,Software,SaaS,Idea,US,3598010,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Excellence Learning,Biotech,B2B,Growth,US,570909407,124,Experienced,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Stackq,Software,SaaS,Seed,Unknown,7915005,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Carousel Technologies,Software,SaaS,MVP,US,739749701,181,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Arcane,Software,SaaS,Idea,US,2596610,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AirHelp,Software,SaaS,Idea,Unknown,1232495,4,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mecho Autotech,Enterprise,B2B,Idea,NG,2801797,2,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+VetRec,Software,SaaS,MVP,US,778099518,195,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+EasyPost,Software,SaaS,Prototype,US,816168091,191,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cheqout,Software,SaaS,Seed,US,22486796,8,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Onfolk,Software,SaaS,Series A,GB,175274479,46,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Continue,Software,SaaS,Prototype,US,813729575,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+7cups,Software,SaaS,Prototype,US,831263766,183,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Weekday,Software,SaaS,Idea,IN,3468896,4,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Eden Farm,Enterprise,B2B,MVP,ID,550676840,171,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Andi,Software,SaaS,Prototype,US,392040169,158,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Crimson,Software,SaaS,Growth,Unknown,439822601,195,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Slashy,Software,SaaS,MVP,US,962889500,136,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cosine,Software,SaaS,Growth,US,262829116,151,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kiwify,Ecommerce,Marketplace,Prototype,BR,210373292,197,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+ContextFort,Software,SaaS,MVP,US,991351271,184,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Forage,Software,SaaS,Series A,US,163133494,43,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CapWay,Software,SaaS,Series B,US,417198098,170,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Curacel,Games_Video,B2C,Seed,NG,20619379,9,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Diffuse Bio,Software,SaaS,Prototype,US,619898063,197,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Wagetap,Games_Video,B2C,Idea,AU,4740681,3,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Ridecell,Software,SaaS,Idea,US,2959674,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rosebud AI,Software,SaaS,Series B,US,964057406,108,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Expent Inc,Software,SaaS,Prototype,US,771987442,142,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Trace,Software,SaaS,Growth,US,579015274,107,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Stably AI,Software,SaaS,Prototype,US,593356086,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+voize,Software,SaaS,Series A,DE,82847348,53,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SingleStore,Software,SaaS,MVP,US,284450622,80,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Oncobox,Software,SaaS,Seed,US,5051424,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Benchmark,Software,SaaS,Series A,US,111648191,40,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Double,Software,SaaS,Seed,US,27000015,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CollectWise,Advertising,Freemium,Series A,Unknown,102843539,42,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Echodio,Software,SaaS,Growth,US,753777867,110,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bakool,Software,SaaS,Seed,ID,8008527,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Peoplebox,Software,SaaS,Seed,US,27545274,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Looklive,Software,SaaS,Prototype,US,789641610,165,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bystreet,Software,SaaS,Prototype,US,905783868,147,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+"Elphinstone, Inc.",Games_Video,B2C,Seed,PK,27873610,6,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Venta AI,Biotech,B2B,Seed,Unknown,10986233,7,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Pyq AI,Software,SaaS,Seed,US,20400660,13,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cinapse,Software,SaaS,Growth,US,250771633,166,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+14.ai,Software,SaaS,MVP,US,766424562,180,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PARES AI,Software,SaaS,Prototype,US,560478762,67,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Novaflow,Software,SaaS,Idea,US,3780474,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Meson,Software,SaaS,Growth,SG,250702907,116,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Gantto,Software,SaaS,Prototype,US,843114687,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cotera,Software,SaaS,Seed,GB,17587166,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Appcanary,Software,SaaS,Idea,CA,1263854,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Logarithm Labs,Ecommerce,Marketplace,MVP,US,871875818,65,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Airweave,Software,SaaS,Seed,US,23893636,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Preloop,Software,SaaS,Series A,Unknown,116434399,35,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Skope,Advertising,Freemium,Idea,US,4043383,3,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+YourQuote,Enterprise,B2B,Seed,IN,26459250,15,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+PicnicHealth,Software,SaaS,Growth,US,340210427,198,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Finley,Software,SaaS,Prototype,US,763132010,182,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Baraka,Games_Video,B2C,Series B,AE,886364443,105,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Assembly HOA,Software,SaaS,Growth,US,384160285,190,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Epicenter,Software,SaaS,Series A,US,109107269,37,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Verse Medical,Software,SaaS,MVP,US,358984913,147,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lumi,Advertising,Freemium,Seed,US,7181061,12,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Wolfia,Software,SaaS,Series B,US,556039943,200,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Truora,Software,SaaS,MVP,CO,937934615,60,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+OffDeal,Software,SaaS,MVP,US,482990852,194,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+WayUp,Software,SaaS,Series B,US,687425301,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fobo,Software,SaaS,MVP,US,725195590,132,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Onebrief,Software,SaaS,Series A,US,78909728,24,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Nuvola,Software,SaaS,Seed,US,9055544,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Paragon,Software,SaaS,Idea,US,4386101,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Axiom.ai,Games_Video,B2C,Growth,GB,325039295,161,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+iollo,Software,SaaS,Series B,US,333099361,116,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vogent,Software,SaaS,Idea,US,1645266,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ridecell,Software,SaaS,Idea,US,1792793,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Soon,Software,SaaS,Idea,US,2940971,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+T3 Chat,Software,SaaS,Series A,US,58355052,20,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CreatorML,Advertising,Freemium,Growth,US,226253941,133,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Nomiku,Software,SaaS,Prototype,US,472234660,153,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Seam,Software,SaaS,MVP,US,361791002,104,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Apprentice Health,Enterprise,B2B,MVP,US,949392984,121,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Bonsai,Software,SaaS,Idea,US,1179185,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Olark,Software,SaaS,Seed,US,21152227,8,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Quell,Software,SaaS,Growth,GB,539232958,133,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+NetBeez,Software,SaaS,Series A,US,79561527,57,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lokal,Software,SaaS,Series A,IN,130720067,45,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Protocol Labs,Software,SaaS,Growth,US,563355830,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Strada,Software,SaaS,Prototype,US,617664501,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lilia,Software,SaaS,MVP,US,798198605,120,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Atomwise,Software,SaaS,Series A,US,128225956,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Carbic,Software,SaaS,Series B,US,735314515,192,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Userfox,Software,SaaS,MVP,US,421628009,74,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+stagewise,Software,SaaS,Growth,Unknown,200930649,162,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cowlar,Software,SaaS,Growth,US,740734570,149,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sable,Software,SaaS,Prototype,US,471303041,112,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hellosaurus,Software,SaaS,MVP,US,614712601,78,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Red Barn Robotics,Games_Video,B2C,Seed,Unknown,16648248,8,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Sygaldry Technologies,Software,SaaS,Prototype,Unknown,307476315,191,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+telli,Ecommerce,Marketplace,Idea,DE,2547183,2,Experienced,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Cardamon,Software,SaaS,MVP,US,744386479,133,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kiwi Biosciences,Software,SaaS,Prototype,US,433566534,153,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+UpKeep,Biotech,B2B,Growth,US,549513257,157,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Bonsai,Software,SaaS,Idea,US,3093634,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Codes Health,Software,SaaS,MVP,US,380520751,143,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spoil,Software,SaaS,Series A,US,154913299,39,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hogaru,Games_Video,B2C,Series A,CO,153292194,52,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Sunflower,Enterprise,B2B,Seed,US,22818415,9,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Vayable,Software,SaaS,Idea,US,3580273,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Simetrik,Software,SaaS,Series A,CO,112951374,27,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Joy,Software,SaaS,MVP,US,903118775,164,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Engines,Software,SaaS,MVP,US,554081460,77,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bitnami,Software,SaaS,MVP,US,775763911,109,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Signatur Biosciences,Advertising,Freemium,Series A,GB,143179044,52,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Quill,Software,SaaS,Series B,US,490100612,137,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Canopy Labs,Software,SaaS,Growth,US,624375999,183,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Janus,Software,SaaS,Growth,US,918133372,183,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Defer,Software,SaaS,Growth,FR,452253242,179,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SendHub,Software,SaaS,MVP,US,964644705,171,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Storia AI,Software,SaaS,Seed,US,25411892,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Clipboard Health,Software,SaaS,Prototype,Unknown,804270357,157,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PagerDuty,Advertising,Freemium,Seed,US,28302330,10,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Feroot Security,Software,SaaS,Growth,CA,707884618,152,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Heyfood,Software,SaaS,MVP,NG,465735629,115,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sourcepulse,Software,SaaS,Growth,FR,797512494,82,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vena Vitals,Advertising,Freemium,Seed,US,17073553,9,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Gym Class - by IRL Studios,Ecommerce,Marketplace,MVP,US,981962557,97,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Riley,Software,SaaS,Idea,US,3670749,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lark,Software,SaaS,MVP,US,637491346,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Variance,Biotech,B2B,Seed,US,24498733,14,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Podium,Software,SaaS,MVP,US,276913212,158,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+trii,Software,SaaS,Seed,US,24446290,14,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+T3 Chat,Software,SaaS,Idea,US,2967170,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Blink,Software,SaaS,Series A,IT,166480950,43,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+EnvKey,Software,SaaS,Seed,US,13735181,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mixr,Games_Video,B2C,Seed,CA,13031730,13,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+ZETA SURGICAL,Software,SaaS,MVP,US,442177266,82,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cherry,Software,SaaS,Seed,US,29119199,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Freestyle,Advertising,Freemium,Idea,US,3067371,2,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+OpenSight,Software,SaaS,Seed,US,7045257,9,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Flightcaster,Software,SaaS,Idea,US,3302781,2,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Atrato,Software,SaaS,Idea,MX,2701269,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Blink,Software,SaaS,Seed,US,18636353,9,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ohm,Software,SaaS,Series A,US,34140112,47,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Opencall.ai,Games_Video,B2C,Seed,Unknown,27201723,8,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+TypeLess,Software,SaaS,Growth,US,602010017,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Acunote,Software,SaaS,Prototype,US,654925429,155,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Leena AI,Games_Video,B2C,MVP,US,415865128,68,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Upbeat,Software,SaaS,Seed,US,14636458,7,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tienda Crypto,Games_Video,B2C,Series B,AR,885452574,160,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Ionworks,Enterprise,B2B,Series B,Unknown,698514299,178,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Reddit,Games_Video,B2C,Prototype,US,275134991,179,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Slope,Software,SaaS,MVP,US,625459310,171,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Calii,Software,SaaS,Series A,MX,155946811,20,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Compound,Software,SaaS,Seed,US,18164194,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GOAT Group,Software,SaaS,Idea,US,2051141,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Trellus,Software,SaaS,Prototype,US,368505473,152,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Respaid,Biotech,B2B,Series B,US,587329533,80,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Edwin,Software,SaaS,Growth,US,645260070,199,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Smart Alto,Software,SaaS,Series B,US,752872807,138,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Humanloop,Software,SaaS,Idea,US,4009740,2,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sendwave,Software,SaaS,Prototype,US,227320411,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Thunder Compute,Games_Video,B2C,Idea,US,3632777,5,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Littio,Enterprise,B2B,Prototype,CO,206149143,195,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Sirka,Software,SaaS,MVP,ID,453349989,101,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pernell,Advertising,Freemium,Prototype,US,484169667,120,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Allotrope Medical,Software,SaaS,Prototype,US,846721326,165,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Jitsu,Advertising,Freemium,Series A,US,156984820,49,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Wattvision,Advertising,Freemium,Series A,US,31852108,22,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Paragon,Enterprise,B2B,Prototype,US,344987148,122,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Synth,Software,SaaS,Idea,US,1605852,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Immunity Project,Software,SaaS,Series A,US,171487562,53,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Getcho,Software,SaaS,Series A,US,192810725,29,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+View3,Software,SaaS,Prototype,Unknown,205911042,124,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Wasmer,Enterprise,B2B,Prototype,US,526941249,192,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Ello,Software,SaaS,MVP,US,731322309,107,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+LUS Brands,Software,SaaS,Growth,CA,710533396,114,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+WeReno,Software,SaaS,MVP,CA,295744251,189,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Invofox,Software,SaaS,Prototype,ES,893325878,180,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Listia,Software,SaaS,Series B,US,789103334,63,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hermes Robotics,Software,SaaS,Series A,US,91847462,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Prophecy Sciences,Software,SaaS,MVP,US,980188368,101,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+fixa,Games_Video,B2C,Prototype,US,278384329,169,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Nixo,Software,SaaS,MVP,US,441260586,112,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Newton,Software,SaaS,Growth,Unknown,602253813,178,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fitia,Advertising,Freemium,Seed,US,25476650,14,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Withfriends,Software,SaaS,Idea,US,4665554,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Palenca,Biotech,B2B,Prototype,BR,327514157,88,Experienced,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Lifelike,Enterprise,B2B,Seed,US,29598388,14,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Hindsight,Software,SaaS,Seed,US,28232684,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Forfeit,Enterprise,B2B,Growth,US,410633001,152,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+CareRev,Software,SaaS,Series A,US,182327582,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Andson Biotech,Ecommerce,Marketplace,Series A,US,55042404,46,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+PathPilot,Ecommerce,Marketplace,MVP,US,486738214,108,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Goldbelly,Software,SaaS,Prototype,US,644967289,110,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Basalt,Software,SaaS,Idea,US,3908594,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Prism,Software,SaaS,Series A,US,175962348,53,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PandasAI,Enterprise,B2B,Growth,DE,798235686,194,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+SolidStage,Software,SaaS,Series B,Unknown,677297580,199,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ClickPe,Software,SaaS,Seed,IN,16926369,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+mdhub,Software,SaaS,Series A,US,77512267,22,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Motionlead,Software,SaaS,Prototype,FR,653448599,200,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Intact Therapeutics,Enterprise,B2B,Growth,US,917046297,93,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Fly.io,Enterprise,B2B,Series B,US,628730406,200,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Instapainting,Software,SaaS,Seed,US,24028140,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Asteroid,Biotech,B2B,MVP,US,235034305,117,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Scout,Software,SaaS,Idea,US,4068027,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Glow Energy,Software,SaaS,Idea,Unknown,2855492,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Transfez,Software,SaaS,Series B,ID,884826748,149,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Satchel,Advertising,Freemium,Series B,US,903408461,118,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Edexia,Software,SaaS,Seed,US,6847263,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Eclipse Foods,Software,SaaS,Series A,US,187184202,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Macadamia,Software,SaaS,Series A,Unknown,85004285,40,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Telmai,Software,SaaS,Series B,US,991050908,61,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Biobot Analytics,Software,SaaS,Seed,US,19919409,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Eclipse Foods,Software,SaaS,Seed,US,22823827,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Atla,Software,SaaS,MVP,GB,567535555,145,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Gauge,Software,SaaS,Seed,US,6861534,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+WriteWith,Software,SaaS,MVP,US,882436096,181,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Diffuse Bio,Software,SaaS,MVP,US,273961957,125,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GoldenBasis,Software,SaaS,Growth,US,795356819,190,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Teevox,Software,SaaS,Series B,US,492434514,137,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Draft,Enterprise,B2B,Idea,US,4142963,3,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Codebuff,Enterprise,B2B,Idea,Unknown,1736931,2,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Tarsal,Software,SaaS,Prototype,US,464425600,189,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Snackpass,Software,SaaS,Growth,US,434914814,76,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lingt,Biotech,B2B,MVP,US,707349483,93,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Bitplay,Software,SaaS,Series A,US,141163861,38,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Abatable,Software,SaaS,MVP,GB,451813270,68,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Glow Energy,Biotech,B2B,Series A,Unknown,88724030,39,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Logiblock,Software,SaaS,Series B,US,686607743,124,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Xeol,Advertising,Freemium,Series B,US,988911517,131,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Ollama,Software,SaaS,Prototype,US,948569206,101,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Durioo,Software,SaaS,Seed,MY,18451977,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Momento,Software,SaaS,Seed,MX,18482553,14,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Beam,Games_Video,B2C,Idea,US,1160458,5,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Jiga,Games_Video,B2C,Series B,US,477588401,182,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Taiv,Software,SaaS,MVP,CA,878635763,140,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tesseral,Software,SaaS,Seed,US,28425027,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+StyleBee,Software,SaaS,Seed,US,17039892,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+FitFu,Enterprise,B2B,Seed,US,18065486,6,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Pixelapse,Ecommerce,Marketplace,Prototype,US,570079075,100,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+DailyDoctor,Software,SaaS,Series A,US,178753984,30,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hive,Software,SaaS,Seed,CA,25849006,13,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Reelables,Software,SaaS,Series A,Unknown,177882567,42,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Roame,Games_Video,B2C,Growth,US,369587314,65,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Paratus Health,Software,SaaS,MVP,US,392937938,63,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Acrely,Software,SaaS,Series B,US,955333654,149,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scout,Software,SaaS,Growth,US,321369113,81,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rutter,Software,SaaS,Series B,US,278382181,77,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Taylor AI,Software,SaaS,Series A,US,126781756,38,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Demeanor.co,Software,SaaS,Series A,US,93309138,57,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ZeroDev,Software,SaaS,Seed,US,22350171,10,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Verse Therapy,Enterprise,B2B,Series A,US,138020654,32,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Triply,Enterprise,B2B,Seed,KE,23464505,9,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Women Who Code,Software,SaaS,Seed,US,25287289,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AskMyClass,Software,SaaS,Series B,US,760508703,142,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Flowspace,Software,SaaS,Prototype,US,787224876,160,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+"DeepSim, Inc.",Software,SaaS,Series A,US,176820651,45,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+GhostEye,Software,SaaS,Series A,US,54300280,48,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tara AI,Software,SaaS,Seed,US,27500925,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+InEvent,Software,SaaS,Prototype,US,718069843,74,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pursuit,Biotech,B2B,Idea,US,2810203,2,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Deepgram,Software,SaaS,Seed,US,10554083,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Voodoo Manufacturing,Advertising,Freemium,Idea,US,2887810,2,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Logica,Software,SaaS,Growth,US,460643261,142,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ZeroEval,Software,SaaS,Prototype,US,246525328,145,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Yummy Future,Enterprise,B2B,Growth,US,639413954,130,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Prembly (formerly Identitypass),Biotech,B2B,Series B,NG,791093635,142,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+assistant-ui,Biotech,B2B,Idea,US,4669034,2,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Cofactor Genomics,Software,SaaS,Series B,US,929601464,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Beau,Software,SaaS,Seed,ES,25028027,15,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Freterium,Software,SaaS,Prototype,MA,310006735,139,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+General Agency,Software,SaaS,Seed,US,27238814,12,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bitmovin,Software,SaaS,Prototype,US,663517845,200,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mineflow,Software,SaaS,Series B,Unknown,943289293,184,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Orchid,Biotech,B2B,Growth,US,597971102,62,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Humanloop,Education,Subscription,Prototype,US,544327797,129,Experienced,Students need engaging digital learning.,Students,"BYJU'S, Unacademy, PhysicsWallah",Campus Ambassador Program
+Scanate/Fellow,Software,SaaS,Idea,Unknown,4533052,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bountii,Enterprise,B2B,Series A,US,120349996,45,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Osmosis,Biotech,B2B,Idea,Unknown,3683875,2,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Lanesurf,Software,SaaS,Prototype,US,695716874,184,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Jenfi,Software,SaaS,Series B,SG,709394946,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Apollo,Games_Video,B2C,MVP,IN,846978099,74,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Toko,Advertising,Freemium,MVP,US,378071891,85,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Careerist,Software,SaaS,Idea,US,1031198,2,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bree,Software,SaaS,Series A,CA,193933054,44,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+URX,Software,SaaS,MVP,US,545920470,186,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Type,Games_Video,B2C,MVP,US,309618486,172,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+OneStopKitchen,Software,SaaS,Prototype,US,540367751,130,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Atlas,Software,SaaS,Prototype,US,830287722,138,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Peakflo,Software,SaaS,Series A,SG,74430882,53,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Alba Orbital,Software,SaaS,Prototype,GB,430605238,128,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dream3D,Software,SaaS,Series B,US,335093194,196,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bottomless,Software,SaaS,Series A,US,55232128,38,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Invaria,Advertising,Freemium,Series A,GB,66297663,43,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Augento,Software,SaaS,Prototype,US,817683180,90,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Swayable,Ecommerce,Marketplace,Series B,US,587858289,142,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+TellFi,Games_Video,B2C,Seed,US,6274817,10,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Swish,Software,SaaS,Prototype,US,966767122,196,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+"numericcal, inc.",Enterprise,B2B,Series B,US,664104057,112,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Letter AI,Software,SaaS,Prototype,US,762470641,98,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Fuzzbuzz,Enterprise,B2B,Series A,US,114162048,29,Experienced,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Stitch Health,Software,SaaS,Seed,US,16901069,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cognito,Software,SaaS,Prototype,US,664607614,131,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Cheers,Software,SaaS,Prototype,US,720825430,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+RedBrick AI,Software,SaaS,Prototype,US,314354829,125,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mercura,Software,SaaS,Growth,Unknown,291176763,157,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Darsel,Software,SaaS,MVP,Unknown,676958839,93,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Nautilus,Software,SaaS,Growth,US,775428840,174,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+TectoAI,Advertising,Freemium,Prototype,US,382090559,105,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Flowglad,Software,SaaS,Growth,US,358281357,111,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Apportable,Advertising,Freemium,Seed,US,11562532,12,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Momentus,Software,SaaS,Series A,US,156994088,28,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lully,Advertising,Freemium,Series B,US,390249971,120,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Winford Wealth,Software,SaaS,MVP,Unknown,953299021,168,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Tejas AI,Software,SaaS,Series B,US,848653996,111,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Casca,Software,SaaS,Seed,US,5328169,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+PrimeVault,Software,SaaS,Seed,US,22801868,11,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Psylaris,Software,SaaS,Growth,NL,751177439,97,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Crew,Software,SaaS,Series A,FR,98969451,39,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+BBy,Software,SaaS,Series B,US,738005109,151,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Project Wedding,Software,SaaS,Growth,US,652866549,180,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Drip Capital,Software,SaaS,Idea,IN,1093069,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sorting Robotics,Enterprise,B2B,Series B,US,263466487,104,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+SuperAPI,Enterprise,B2B,Series A,IN,185783366,32,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Popular Pays,Software,SaaS,Series B,US,402857907,165,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Plate IQ,Health,B2B,MVP,US,511740823,110,Intermediate,Healthcare operations are inefficient and fragmented.,Hospitals,"Practo, Apollo 24/7, Tata 1mg",Hospital Partnerships
+Stormy AI,Software,SaaS,Series B,US,662138609,87,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+MightyQuiz,Advertising,Freemium,Idea,US,3247523,5,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+MetricWire,Health,B2B,Series A,CA,61594880,52,Intermediate,Healthcare operations are inefficient and fragmented.,Hospitals,"Practo, Apollo 24/7, Tata 1mg",Hospital Partnerships
+Paperspace,Software,SaaS,Series B,US,544506142,116,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Reframe (Glucobit),Biotech,B2B,Series B,US,710403641,198,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Cobblestone,Software,SaaS,MVP,US,687387959,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Assembly HOA,Enterprise,B2B,Series B,US,648650741,130,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+renderlet,Biotech,B2B,Series B,US,646198138,107,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Zeit Medical,Enterprise,B2B,Series A,US,71373717,27,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Flint,Software,SaaS,MVP,US,525392512,198,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Boosted,Ecommerce,Marketplace,Seed,US,8956805,7,Experienced,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Recurrency,Software,SaaS,Idea,US,4135536,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Coub,Software,SaaS,Series A,RU,64546139,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+RADAR,Software,SaaS,Seed,US,5695322,12,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rally Tennis,Ecommerce,Marketplace,Series B,US,537768642,102,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+LEAH Labs,Games_Video,B2C,Growth,US,367931874,171,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+CAPSULE,Software,SaaS,MVP,US,688126439,188,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Topological,Ecommerce,Marketplace,Idea,Unknown,2101205,3,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Splash Inc.,Enterprise,B2B,Series B,US,490842000,71,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Reshape Biotech,Software,SaaS,Idea,DK,1001723,2,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Culture Biosciences,Ecommerce,Marketplace,Prototype,US,959970584,156,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Flirtey (SkyDrop),Software,SaaS,Growth,US,440426457,107,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pathmind,Software,SaaS,Growth,US,627599059,187,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Whaly,Software,SaaS,Series A,FR,174269500,46,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Superwall,Software,SaaS,Idea,US,1973027,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Easel,Software,SaaS,Seed,US,20929312,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Voker,Software,SaaS,Seed,US,10196369,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Kiwify,Software,SaaS,Growth,BR,715939760,107,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Propolis,Software,SaaS,MVP,Unknown,322076011,110,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Minimum,Software,SaaS,Idea,GB,3127938,3,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Inventive AI,Software,SaaS,Series B,US,949574061,133,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SFOX,Ecommerce,Marketplace,Prototype,US,346360668,62,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Lightski,Software,SaaS,Series B,US,462284506,139,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ligo Biosciences,Software,SaaS,MVP,US,819283424,78,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+testRigor,Software,SaaS,Idea,US,3689444,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Menza,Software,SaaS,Seed,Unknown,18262143,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Poll Everywhere,Software,SaaS,Seed,US,23365627,15,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Remora,Software,SaaS,Series A,US,177729763,26,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SolidStage,Enterprise,B2B,Series A,Unknown,160046322,50,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Trigo,Enterprise,B2B,Series B,US,477243313,124,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Xendit,Software,SaaS,MVP,ID,986429444,143,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Playground,Advertising,Freemium,Growth,US,377732312,92,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Scrimba,Software,SaaS,Idea,NO,2608357,5,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+FloydHub,Enterprise,B2B,Idea,US,2739775,4,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+stratify,Software,SaaS,Prototype,US,520804187,62,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Planet A Foods,Games_Video,B2C,Prototype,DE,848956822,164,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Microverse,Games_Video,B2C,Prototype,Unknown,922730638,119,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Gordian Software,Biotech,B2B,Prototype,US,866466922,98,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Lantern,Software,SaaS,Prototype,US,242785196,178,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SpoonRocket,Software,SaaS,MVP,US,848249554,138,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Blissway,Software,SaaS,Series A,US,166098826,44,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Conta Simples,Software,SaaS,Series A,BR,41896092,47,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AccessOwl,Software,SaaS,Series A,DE,128913689,55,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ivy Homes,Software,SaaS,Seed,IN,16815711,6,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ready Education,Software,SaaS,Seed,CA,10206245,13,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+OpenMeter,Software,SaaS,Series A,Unknown,125870418,28,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Scribe,Advertising,Freemium,Series B,IN,970249372,137,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Product Hunt,Software,SaaS,Series A,US,127966053,26,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Vizy,Software,SaaS,Seed,US,15018946,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Plai,Software,SaaS,Series B,US,761910866,198,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Zero,Software,SaaS,Series A,US,104137717,23,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Formula Insight,Enterprise,B2B,Series B,US,593614415,193,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Popcuts,Software,SaaS,Idea,US,4268969,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bloom Institute of Technology,Software,SaaS,Idea,US,3429794,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Plume,Games_Video,B2C,Series A,FR,39489532,41,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Flowspace,Software,SaaS,Prototype,US,796790918,70,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spire Health,Ecommerce,Marketplace,Prototype,US,615828248,121,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Aisle50,Health,B2B,Idea,US,3732259,2,Experienced,Healthcare operations are inefficient and fragmented.,Hospitals,"Practo, Apollo 24/7, Tata 1mg",Hospital Partnerships
+Syncro,Enterprise,B2B,Series A,US,127480275,48,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Logital AI (Teclada),Software,SaaS,Series B,US,313762820,178,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Raptor Maps,Software,SaaS,Prototype,US,727825661,97,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+FollowUpThen,Games_Video,B2C,Growth,US,498469287,106,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Doublezero,Software,SaaS,Growth,Unknown,927191293,122,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Dev Tools AI,Advertising,Freemium,MVP,US,209765644,136,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+SuperTokens,Ecommerce,Marketplace,Idea,US,3234021,2,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+Innate,Software,SaaS,Series A,US,185887293,42,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+HUBUC,Enterprise,B2B,Growth,ES,412877528,79,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Sourceress,Software,SaaS,Growth,US,986480268,197,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Nasdisc,Software,SaaS,Prototype,US,200072666,178,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Nuntius,Software,SaaS,Series A,US,33544848,50,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+LitHit,Software,SaaS,Series B,Unknown,248247269,68,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Deel,Software,SaaS,MVP,US,211223837,67,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+RegistryLove,Advertising,Freemium,Idea,US,4517136,4,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Saphira AI,Biotech,B2B,Growth,US,206251401,98,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+BlackOakTV,Games_Video,B2C,Growth,US,864050750,115,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+LendEDU,Software,SaaS,MVP,US,208631314,180,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sonar,Software,SaaS,Seed,US,5234222,9,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Hackermeter,Software,SaaS,Prototype,US,768296078,66,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Coco Controller,Software,SaaS,Idea,Unknown,2403093,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Draftaid,Software,SaaS,Series B,CA,371433721,131,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Siglo,Software,SaaS,Series A,MX,195548330,49,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Genecis Bio,Software,SaaS,Prototype,CA,332765135,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Openlayer,Software,SaaS,Prototype,US,316398365,116,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ZumoDrive,Games_Video,B2C,Growth,US,400654249,147,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Inversion Semiconductor,Software,SaaS,Idea,US,2978085,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Verifiable,Software,SaaS,MVP,US,670722623,148,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+TellFi,Software,SaaS,Series A,US,118815007,55,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Formal,Enterprise,B2B,Growth,US,744935406,195,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Clinikally,Software,SaaS,Prototype,IN,308009317,65,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Percept.AI,Software,SaaS,Growth,US,238556275,133,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Spire Health,Software,SaaS,Series A,US,134533983,23,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Toolify,Games_Video,B2C,Series B,IN,660077449,131,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Teevox,Software,SaaS,MVP,US,565785505,196,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lavo Life Sciences,Software,SaaS,Series A,Unknown,183972391,41,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+NURX,Software,SaaS,Seed,US,15270274,14,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ukama,Software,SaaS,Growth,US,970746113,127,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bindwell,Ecommerce,Marketplace,Series A,US,44605907,53,Intermediate,Online sellers struggle with customer acquisition.,Online Customers,"Flipkart, Amazon, Meesho",Digital Marketing
+WaystoCap,Software,SaaS,MVP,MA,605753070,108,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Junction,Software,SaaS,Idea,GB,3797809,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Opusense AI,Enterprise,B2B,Series A,Unknown,72234331,43,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+GoGoGrandparent,Enterprise,B2B,Prototype,US,808627284,127,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Polo,Software,SaaS,Growth,MX,970227013,109,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Asteroid,Software,SaaS,MVP,US,610941123,129,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+June,Software,SaaS,Idea,US,3293263,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+7cups,Software,SaaS,Prototype,US,553801524,197,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Talkito,Software,SaaS,MVP,Unknown,680755324,179,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Digi-Prex,Software,SaaS,Prototype,IN,906921868,177,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+chrt,Software,SaaS,MVP,Unknown,813085001,167,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Zenbase AI,Software,SaaS,MVP,Unknown,619294805,100,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+iNRI,Software,SaaS,Series A,US,94965236,28,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Wasp,Advertising,Freemium,Prototype,HR,664989607,119,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Trébol,Enterprise,B2B,Prototype,CO,846052379,92,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Lawn Love,Software,SaaS,Seed,US,11375212,7,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Shelf,Enterprise,B2B,Series B,IN,720762401,156,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Benepass,Software,SaaS,Series A,US,117151468,32,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+SourceBeacon,Software,SaaS,Idea,Unknown,3974647,2,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Culture Biosciences,Software,SaaS,MVP,US,816642240,61,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Aedilic,Enterprise,B2B,MVP,US,321617740,159,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Rubbrband,Software,SaaS,MVP,Unknown,637214576,181,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sirdab,Software,SaaS,Growth,SA,322480792,65,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+NewsBlur,Games_Video,B2C,Series A,US,132623419,50,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Handl,Enterprise,B2B,MVP,US,737905108,94,Intermediate,Large organizations need workflow automation.,Large Enterprises,"Zoho, Freshworks",Direct Sales
+Selia,Software,SaaS,MVP,CO,371588301,171,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Capix,Software,SaaS,Idea,US,2577666,4,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Weave Robotics,Software,SaaS,Series A,Unknown,80811373,38,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ciro,Software,SaaS,Series B,US,212489853,193,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Village Labs,Advertising,Freemium,MVP,US,875987779,157,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Gusto,Software,SaaS,MVP,US,575777832,152,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Datafold,Software,SaaS,Series A,US,133656336,32,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+AmpUp,Software,SaaS,MVP,US,493729745,80,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ambient.ai,Software,SaaS,MVP,US,747065346,192,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Obento Health,Software,SaaS,Seed,US,11454104,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Floot,Software,SaaS,Growth,US,845936214,166,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Layerup,Software,SaaS,Growth,US,607649864,182,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Arist,Software,SaaS,Growth,US,934726954,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+RowFlow,Advertising,Freemium,Prototype,US,980551809,199,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Drip Capital,Software,SaaS,Series A,IN,60820198,30,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Paragon AI,Software,SaaS,Growth,US,593292287,136,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pay Swifter,Software,SaaS,Growth,IN,850897463,120,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+RealCrowd,Software,SaaS,Seed,US,16117266,15,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+H3X Technologies,Biotech,B2B,MVP,US,898701000,150,Experienced,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Raptor Maps,Software,SaaS,Idea,US,4644638,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Blixo,Software,SaaS,Idea,US,4823284,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Chirply,Software,SaaS,Growth,US,374667372,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CareOasis,Software,SaaS,Growth,US,796827105,101,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Ambition,Software,SaaS,Prototype,US,688328275,101,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Calltree,Software,SaaS,MVP,US,272651366,159,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Teleo,Software,SaaS,Growth,US,467641505,123,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+adyn,Software,SaaS,Series A,US,129160226,48,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Juicy Marbles,Games_Video,B2C,Growth,SI,717408640,97,Experienced,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Kivo,Software,SaaS,Idea,US,2911651,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Zen,Software,SaaS,MVP,Unknown,436036484,194,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Clutch,Software,SaaS,MVP,US,743783554,114,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Pana,Software,SaaS,Seed,US,12733279,11,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Celest,Software,SaaS,Prototype,US,557972229,154,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+H1,Games_Video,B2C,Prototype,US,482301458,158,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Manifold Freight,Software,SaaS,Seed,US,10036520,13,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Juicebox,Software,SaaS,Series B,US,909229916,192,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Envyl,Software,SaaS,Prototype,US,767202904,75,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Mezli,Software,SaaS,Prototype,US,466587449,181,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Covela,Software,SaaS,Growth,MX,676019996,156,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Medigram,Software,SaaS,Prototype,US,427376322,73,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Semantics3,Software,SaaS,Idea,US,1374276,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Looklive,Advertising,Freemium,Prototype,US,432281308,87,Experienced,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Appcubator,Software,SaaS,Growth,US,652964302,141,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Versive,Games_Video,B2C,Seed,US,19501734,14,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Gridware,Software,SaaS,Seed,US,9078380,11,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sixty,Software,SaaS,Series A,US,43064048,60,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+ISSEN,Education,Subscription,Idea,US,1894899,5,Intermediate,Students need engaging digital learning.,Students,"BYJU'S, Unacademy, PhysicsWallah",Campus Ambassador Program
+Teleo,Advertising,Freemium,Idea,US,2691326,4,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Dover,Software,SaaS,Seed,US,11999244,12,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Preloop,Software,SaaS,Growth,Unknown,613361177,98,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sonia,Software,SaaS,MVP,US,330981365,110,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Aklimate,Software,SaaS,Growth,GB,929396955,69,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Deskimo,Software,SaaS,Prototype,SG,224211156,70,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Appcanary,Software,SaaS,Series B,CA,471296786,121,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Airweave,Software,SaaS,Series A,US,152964589,27,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Humoniq,Software,SaaS,Growth,US,521832007,114,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Sourcepulse,Software,SaaS,Idea,FR,4913567,5,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+CrediBook,Software,SaaS,Series B,ID,294070908,74,Experienced,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+DevFlight,Biotech,B2B,MVP,US,807979856,93,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Demo Gorilla,Software,SaaS,Prototype,US,986588596,188,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Broccoli AI,Software,SaaS,Prototype,US,767235683,90,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Bicycle AI,Games_Video,B2C,Series B,IN,511091747,120,Intermediate,Players demand better gaming experiences.,Gamers,"Dream11, MPL",Influencer Marketing
+Planet A Foods,Advertising,Freemium,Series B,DE,285769447,150,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Heart Aerospace,Advertising,Freemium,Prototype,SE,508550360,142,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+Interlock,Software,SaaS,Growth,US,827154523,115,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Liyfe,Advertising,Freemium,Growth,US,597134556,84,Intermediate,Brands struggle to reach the right audience.,Marketing Teams,"Google Ads, Meta Ads",Inside Sales
+HealthSpark,Software,SaaS,Seed,US,13170530,13,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Lokal,Biotech,B2B,Growth,IN,979409579,153,Intermediate,Drug discovery is slow and expensive.,Healthcare Companies,"Moderna, Biocon",Clinical Partnerships
+Lowkey,Software,SaaS,Seed,US,13666641,13,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
+Rejuvenation Technologies Inc.,Software,SaaS,Idea,US,4842401,3,Intermediate,Businesses struggle with inefficient software workflows.,Businesses,"Notion, Slack, Atlassian",Product-Led Growth
